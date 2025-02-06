@@ -1,5 +1,5 @@
 About This Repository 🌟<br><br>
-Welcome to my JavaScript Minor Projects repo! 🚀
+Welcome to my JavaScript Minor and major Projects repo! 🚀
 
 This repository is a collection of small but exciting JavaScript projects I’ve built to sharpen my coding skills and explore various JS functionalities. From interactive tools to fun mini-apps, these projects demonstrate the versatility of JavaScript in creating dynamic web experiences.
 
