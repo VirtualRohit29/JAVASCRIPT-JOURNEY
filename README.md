@@ -27,6 +27,17 @@ A random password generator that helps create secure and strong passwords with c
 A fun project that changes the background color with a click of a button. Great for practicing event handling in JavaScript!
 🔗 Live Demo
 
+
+📌 QR Code Generator
+A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript. This tool allows users to generate QR codes for any text or URL instantly.
+
+🚀 Features
+✔️ Generate QR codes for any text or URL
+✔️ Instant generation with a single click
+✔️ Download QR code as an image
+✔️ Fully responsive design
+✔️ Lightweight and fast
+
 Why This Repository? 🤔
 ✅ Practice & Learn: Perfect for beginners and intermediate developers looking to understand JavaScript fundamentals through hands-on projects.
 ✅ Interactive Demos: Each project includes a live demo so you can see the code in action.
