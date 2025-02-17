@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Vaidation of Javascript</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=check" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <header class="signup-header">
+                <h1>Signup</h1>
+            </header>
+            <main class="signup-body">
+                <form action="#">
+                    <P>
+                        <label for="name">Full Name</label>
+                        <input type="text" placeholder="Type name here" id="name" required>
+                        <i class="fa-solid fa-xmark croxx" style="color: red;"></i>  <!-- ❌ Cross -->
+                        <span id="nameerror"></span>
+                    </P>
+
+                    <P>
+                        <label for="email">E-mail</label>
+                        <input type="email" placeholder="Rohit@123gmail.com" id="email" 
+                        required>
+                        <i class="fa-solid fa-xmark croxx" style="color: red;"></i>  <!-- ❌ Cross -->
+                        <span id="emailerror"></span>
+                    </P>
+
+                    <P>
+                        <label for="password">Password</label>
+                        <input type="password" placeholder="Enter your password" id="password" required>
+                        <i class="fa-solid fa-xmark croxx" style="color: red;"></i>  <!-- ❌ Cross -->
+                        <span id="passworderror"></span>
+                    </P>
+
+                    <P>
+                        
+                        <input type="submit" value="Create Account" id="submitbtn">
+                    </P>
+
+                </form>
+            </main>
+            <footer class="signup-footer">
+                <p>Already have an account <a href="">Login</a></p>
+            </footer>
+        </div>
+    </div>
+    <script src="script.js"></script> 
+    
+
+</body>
+
+</html>
