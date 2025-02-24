@@ -1,8 +1,8 @@
 .container {
     width: 575px;
     height: 825px;
-  
-    background-color: #797978;
+    background: url('img.png') repeat-x 0 0 scroll;
+    background-color: #249c9e;
     padding-left: 30px;
   }
   #height,
